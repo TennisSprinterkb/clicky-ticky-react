@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/clicky-ticky-react/./precache-manifest.13d921b805dd13f7383c10b26c9fafd1.js"
+  "/clicky-ticky-react/precache-manifest.fe8d152e47289a418e4c37755942ce0f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/clicky-ticky-react/./index.html", {
+workbox.routing.registerNavigationRoute("/clicky-ticky-react/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
