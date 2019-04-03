@@ -2,7 +2,7 @@
   "name": "clicky-ticky-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tennissprinterkb.github.io/clicky-ticky-react/.",
+  "homepage": "https://tennissprinterkb.github.io/clicky-ticky-react/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
