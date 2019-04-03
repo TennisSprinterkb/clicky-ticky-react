@@ -1,83 +1,83 @@
 [ 
   {
     "id": 1,
-    "image": "/img/Griffin.png"
+    "image": "img/Griffin.png"
   },
   {
     "id": 2,
-    "image": "/img/Cavalier.png"
+    "image": "img/Cavalier.png"
   },
   {
     "id": 3,
-    "image": "/img/AncientBehemoth.png"
+    "image": "img/AncientBehemoth.png"
   },
   {
     "id": 4,
-    "image": "/img/Champion.png"
+    "image": "img/Champion.png"
   },
   {
     "id": 5,
-    "image": "/img/ChaosHydra.png"
+    "image": "img/ChaosHydra.png"
   },
   {
     "id": 6,
-    "image": "/img/Efreet.png"
+    "image": "img/Efreet.png"
   },
   {
     "id": 7,
-    "image": "/img/EfreetSultan.png"
+    "image": "img/EfreetSultan.png"
   },
   {
     "id": 8,
-    "image": "/img/Green_dragon.png"
+    "image": "img/Green_dragon.png"
   },
   {
     "id": 9,
-    "image": "/img/MedusaQueen.png"
+    "image": "img/MedusaQueen.png"
   },
   {
     "id": 10,
-    "image": "/img/RedDragon.png"
+    "image": "img/RedDragon.png"
   },
   {
     "id": 11,
-    "image": "/img/Royal_Griffin.png"
+    "image": "img/Royal_Griffin.png"
   },
   {
     "id": 12,
-    "image": "/img/Scorpicore.png"
+    "image": "img/Scorpicore.png"
   },
   {
     "id": 13,
-    "image": "/img/Naga.jpg"
+    "image": "img/Naga.jpg"
   },
   {
     "id": 14,
-    "image": "/img/Guard.jpg"
+    "image": "img/Guard.jpg"
   },
   {
     "id": 15,
-    "image": "/img/Giant.jpg"
+    "image": "img/Giant.jpg"
   },
   {
     "id": 16,
-    "image": "/img/Lich.jpg"
+    "image": "img/Lich.jpg"
   },
   {
     "id": 17,
-    "image": "/img/Skeleton.jpg"
+    "image": "img/Skeleton.jpg"
   },
   {
     "id": 18,
-    "image": "/img/Soldier.jpg"
+    "image": "img/Soldier.jpg"
   },
   {
     "id": 19,
-    "image": "/img/Wraight.jpg"
+    "image": "img/Wraight.jpg"
   },
   {
     "id": 20,
-    "image": "/img/Wight.jpg"
+    "image": "img/Wight.jpg"
   }
 ]
   
