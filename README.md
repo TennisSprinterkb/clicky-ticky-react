@@ -1,3 +1,6 @@
+#A click game in React with Heros Might and Magic
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
