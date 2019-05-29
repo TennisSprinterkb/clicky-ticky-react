@@ -6,6 +6,7 @@ import Title from "./components/Title";
 import Creatures from "./Creatures.json";
 import Header from "./components/Header";
 import Row from "./Row";
+import './App.css';
 
 class App extends Component {
   state = {
@@ -56,6 +57,7 @@ class App extends Component {
     
   render() {
     return (
+      <div className="App">
       <Wrapper>
         <Title>Heroes Might and Magic III
         </Title>
@@ -79,6 +81,7 @@ class App extends Component {
           </Row>
       <Footer>text={this.state.footerText}</Footer> 
       </Wrapper>
+      </div>
     );
   }
 }

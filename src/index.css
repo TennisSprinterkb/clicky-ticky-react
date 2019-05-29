@@ -1,3 +1,7 @@
+.App{
+  background-image: url("./email-pattern.png");
+}
+
 .card {
   float: left;
   border-radius: 2px;
